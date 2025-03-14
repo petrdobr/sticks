@@ -1,5 +1,1 @@
-.idea/
-.docker/.env
-backend/vendor/
-backend/var/
-frontend/node_modules/
+.env
